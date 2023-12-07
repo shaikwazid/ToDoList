@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+
+}
+
+
+body{
+  background-color: black;
+}
+
+input[type="text"]{
+  width: 300px;
+  height: 50px;
+  background-color: springgreen;
+  color: black;
+  font-family: cursive;
+  font-size: x-large;
+  border: 2px solid black;
+  margin-right: 5px;
+}
+
+.editbtn{
+  font-size: xx-large;
+  background-color: black;
+  border: 2px solid black;
+  color: aqua;
+}
+
+.plusbtn{
+  font-size: xx-large;
+  background-color: black;
+  border: 2px solid black;
+  color: green;
+}
+
+.citems{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+}
+
+.title{
+  font-family: cursive;
+  text-decoration: underline;
+  color: antiquewhite;
+}
